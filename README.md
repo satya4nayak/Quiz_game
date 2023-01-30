@@ -7,3 +7,9 @@ quiz game using python on backend to frontend
 # html_file_uploaded
 
 -> file named index.html is uploaded into hub
+
+# rewriting
+
+## using html and java
+
+the game is being rewritten by usage of html and javascript

@@ -19,7 +19,7 @@ options = [["A.sand","B.clay","C.Loam","d.SiH"],
                ["A.micro","B.nano","C.fermi","D.amstrong"],
                ["A.England","B.Australia","C.Canada","D.India"],
                ["A.England 1975","B.Australia 1976","C.Newzeeland 1978","D.England 1978"],
-               ["A.Shrikant Kadhambi","B.P.V.Sindhu","C.Pullel Gopichand","D.Saina Nehawal"]]
+               ["A.Shrikant Kadhambi","v","C.Pullel Gopichand","D.Saina Nehawal"]]
 def new_game():
     player_name = input("enter player name :")
 
